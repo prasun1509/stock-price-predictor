@@ -137,9 +137,9 @@ After running, you'll find these charts in the `models/` folder:
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
+**[prasoon khandelwal]**  
 Internship Project — AI/ML Domain  
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@prasun1509](https://github.com/prasun1509)
 
 ---
 
